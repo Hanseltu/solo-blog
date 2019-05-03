@@ -10,7 +10,9 @@
 
 ### 最新
 
-* [每日LeetCode] 1021. Remove Outermost Parentheses](https://www.tuhaoxin.cn/articles/2019/05/01/1556718705261.html)
+* [[每日LeetCode] 682. Baseball Game](https://www.tuhaoxin.cn/articles/2019/05/03/1556892868523.html)
+* [[每日LeetCode] 844. Backspace String Compare](https://www.tuhaoxin.cn/articles/2019/05/02/1556812498473.html)
+* [[每日LeetCode] 1021. Remove Outermost Parentheses](https://www.tuhaoxin.cn/articles/2019/05/01/1556718705261.html)
 * [我的开源](https://www.tuhaoxin.cn/my-github-repos)
 * [[每日LeetCode] 234. Palindrome Linked List](https://www.tuhaoxin.cn/articles/2019/04/30/1556632217252.html)
 * [[每日LeetCode] 160. Intersection of Two Linked Lists](https://www.tuhaoxin.cn/articles/2019/04/29/1556547645353.html)
@@ -28,8 +30,6 @@
 * [[每日LeetCode] 985. Sum of Even Numbers After Queries](https://www.tuhaoxin.cn/articles/2019/04/17/1555507861726.html)
 * [[每日LeetCode] 989. Add to Array-Form of Integer](https://www.tuhaoxin.cn/articles/2019/04/16/1555423447817.html)
 * [[每日LeetCode] 717. 1-bit and 2-bit Characters](https://www.tuhaoxin.cn/articles/2019/04/15/1555338902879.html)
-* [[每日LeetCode] 674. Longest Continuous Increasing Subsequence](https://www.tuhaoxin.cn/articles/2019/04/14/1555253528142.html)
-* [[每日LeetCode] 746. Min Cost Climbing Stairs](https://www.tuhaoxin.cn/articles/2019/04/13/1555162366932.html)
 
 ### 热门
 
@@ -42,13 +42,13 @@
 * [(持续更新...)Automated Software Analysis & Security Notes](https://www.tuhaoxin.cn/articles/2019/03/08/1552053115341.html)
 * [程序切片技术](https://www.tuhaoxin.cn/articles/2019/04/12/1555074101837.html)
 * [[每日LeetCode] 189. Rotate Array](https://www.tuhaoxin.cn/articles/2019/03/10/1552232826078.html)
-* [程序表示方法](https://www.tuhaoxin.cn/articles/2019/03/21/1553173576720.html)
 * [[每日LeetCode] 219. Contains Duplicate II](https://www.tuhaoxin.cn/articles/2019/03/13/1552491749348.html)
+* [程序表示方法](https://www.tuhaoxin.cn/articles/2019/03/21/1553173576720.html)
 * [[每日LeetCode] 26. Remove Duplicates from Sorted Array](https://www.tuhaoxin.cn/articles/2019/03/15/1552660768959.html)
 * [[每日LeetCode] 448. Find All Numbers Disappeared in an Array](https://www.tuhaoxin.cn/articles/2019/03/15/1552579673879.html)
 * [[每日LeetCode] 1. Two Sum](https://www.tuhaoxin.cn/articles/2019/03/20/1553090537977.html)
-* [[每日LeetCode] 118. Pascal's Triangle](https://www.tuhaoxin.cn/articles/2019/03/21/1553171435173.html)
 * [程序分析介绍](https://www.tuhaoxin.cn/articles/2019/03/16/1552742975668.html)
+* [[每日LeetCode] 118. Pascal's Triangle](https://www.tuhaoxin.cn/articles/2019/03/21/1553171435173.html)
 * [[每日LeetCode] 35. Search Insert Position](https://www.tuhaoxin.cn/articles/2019/03/17/1552834568669.html)
 * [[每日LeetCode] 66. Plus One](https://www.tuhaoxin.cn/articles/2019/03/18/1552922152665.html)
 * [[每日LeetCode] 119. Pascal's Triangle II](https://www.tuhaoxin.cn/articles/2019/03/22/1553262235975.html)
@@ -56,26 +56,26 @@
 
 ### 热议
 
-* [[每日LeetCode] 268. Missing Number](https://www.tuhaoxin.cn/articles/2019/03/29/1553847882599.html)
 * [[每日LeetCode] 217. Contains Duplicate](https://www.tuhaoxin.cn/articles/2019/03/12/1552399609211.html)
 * [[每日LeetCode] 832. Flipping an Image](https://www.tuhaoxin.cn/articles/2019/04/12/1555072335749.html)
-* [[每日LeetCode] 169. Majority Element](https://www.tuhaoxin.cn/articles/2019/03/28/1553780385333.html)
-* [[每日LeetCode] 840. Magic Squares In Grid](https://www.tuhaoxin.cn/articles/2019/03/04/1551709181420.html)
-* [LLVM IR 基础介绍](https://www.tuhaoxin.cn/articles/2019/04/13/1555124368885.html)
-* [[每日LeetCode] 88. Merge Sorted Array](https://www.tuhaoxin.cn/articles/2019/03/19/1553006200606.html)
-* [[每日LeetCode] 121. Best Time to Buy and Sell Stock](https://www.tuhaoxin.cn/articles/2019/03/25/1553523382887.html)
 * [[每日LeetCode] 283. Move Zeroes](https://www.tuhaoxin.cn/articles/2019/03/30/1553958811285.html)
-* [[每日LeetCode] 167. Two Sum II - Input array is sorted](https://www.tuhaoxin.cn/articles/2019/03/27/1553694963651.html)
-* [[每日LeetCode] 628. Maximum Product of Three Numbers](https://www.tuhaoxin.cn/articles/2019/04/02/1554210830634.html)
-* [[每日LeetCode] 414. Third Maximum Number](https://www.tuhaoxin.cn/articles/2019/03/11/1552316177665.html)
-* [[每日LeetCode] 830. Positions of Large Groups](https://www.tuhaoxin.cn/articles/2019/04/09/1554817966683.html)
-* [[每日LeetCode] 867. Transpose Matrix](https://www.tuhaoxin.cn/articles/2019/04/11/1554991311151.html)
-* [[每日LeetCode] 566. Reshape the Matrix](https://www.tuhaoxin.cn/articles/2019/04/01/1554130787502.html)
-* [[每日LeetCode] 605. Can Place Flowers](https://www.tuhaoxin.cn/articles/2019/03/07/1551961284898.html)
-* [[每日LeetCode] 941. Valid Mountain Array](https://www.tuhaoxin.cn/articles/2019/03/01/1551446400690.html)
-* [[每日LeetCode] 914. X of a Kind in a Deck of Cards](https://www.tuhaoxin.cn/articles/2019/03/02/1551534206970.html)
-* [[每日LeetCode] 485. Max Consecutive Ones](https://www.tuhaoxin.cn/articles/2019/03/23/1553350273779.html)
 * [[每日LeetCode] 905. Sort Array By Parity](https://www.tuhaoxin.cn/articles/2019/03/03/1551619834877.html)
+* [[每日LeetCode] 914. X of a Kind in a Deck of Cards](https://www.tuhaoxin.cn/articles/2019/03/02/1551534206970.html)
+* [[每日LeetCode] 746. Min Cost Climbing Stairs](https://www.tuhaoxin.cn/articles/2019/04/13/1555162366932.html)
+* [[每日LeetCode] 1002. Find Common Characters](https://www.tuhaoxin.cn/articles/2019/04/03/1554304020017.html)
+* [LLVM概述二：LLVM设计精髓及其优势](https://www.tuhaoxin.cn/articles/2019/04/05/1554469753221.html)
+* [[每日LeetCode] 896. Monotonic Array](https://www.tuhaoxin.cn/articles/2019/04/04/1554388025650.html)
+* [[每日LeetCode] 628. Maximum Product of Three Numbers](https://www.tuhaoxin.cn/articles/2019/04/02/1554210830634.html)
+* [[每日LeetCode] 169. Majority Element](https://www.tuhaoxin.cn/articles/2019/03/28/1553780385333.html)
+* [ LLVM 概述一：编译器背景及LLVM初探](https://www.tuhaoxin.cn/articles/2019/04/01/1554090482411.html)
+* [[每日LeetCode] 888. Fair Candy Swap](https://www.tuhaoxin.cn/articles/2019/04/06/1554557729420.html)
+* [LLVM IR 基础介绍](https://www.tuhaoxin.cn/articles/2019/04/13/1555124368885.html)
+* [[每日LeetCode] 674. Longest Continuous Increasing Subsequence](https://www.tuhaoxin.cn/articles/2019/04/14/1555253528142.html)
+* [[每日LeetCode] 268. Missing Number](https://www.tuhaoxin.cn/articles/2019/03/29/1553847882599.html)
+* [[每日LeetCode] 605. Can Place Flowers](https://www.tuhaoxin.cn/articles/2019/03/07/1551961284898.html)
+* [[每日LeetCode] 566. Reshape the Matrix](https://www.tuhaoxin.cn/articles/2019/04/01/1554130787502.html)
+* [[每日LeetCode] 665. Non-decreasing Array](https://www.tuhaoxin.cn/articles/2019/03/05/1551792840379.html)
+* [[每日LeetCode] 581. Shortest Unsorted Continuous Subarray](https://www.tuhaoxin.cn/articles/2019/03/08/1552052209371.html)
 
 ---
 
