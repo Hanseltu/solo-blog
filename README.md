@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [记第一次顶会论文投稿经历](https://www.tuhaoxin.cn/articles/2019/08/26/1566832624038.html)
 * [[每日LeetCode] 13. Roman to Integer](https://www.tuhaoxin.cn/articles/2019/07/06/1562425477750.html)
 * [[每日LeetCode] 709. To Lower Case](https://www.tuhaoxin.cn/articles/2019/07/04/1562255326023.html)
 * [[每日LeetCode] 929. Unique Email Addresses](https://www.tuhaoxin.cn/articles/2019/07/03/1562163910614.html)
@@ -29,7 +30,6 @@
 * [[每日LeetCode] 110. Balanced Binary Tree](https://www.tuhaoxin.cn/articles/2019/06/01/1559369768751.html)
 * [[每日LeetCode] 257. Binary Tree Paths](https://www.tuhaoxin.cn/articles/2019/05/31/1559315772434.html)
 * [[每日LeetCode] 671. Second Minimum Node In a Binary Tree](https://www.tuhaoxin.cn/articles/2019/05/29/1559142629809.html)
-* [[每日LeetCode] 429. N-ary Tree Level Order Traversal](https://www.tuhaoxin.cn/articles/2019/05/28/1559054257051.html)
 
 ### 热门
 
@@ -56,26 +56,26 @@
 
 ### 热议
 
-* [[每日LeetCode] 66. Plus One](https://www.tuhaoxin.cn/articles/2019/03/18/1552922152665.html)
 * [[每日LeetCode] 206. Reverse Linked List](https://www.tuhaoxin.cn/articles/2019/04/24/1556073084404.html)
-* [[每日LeetCode] 82. Remove Duplicates from Sorted List II](https://www.tuhaoxin.cn/articles/2019/04/25/1556202011230.html)
-* [[每日LeetCode] 989. Add to Array-Form of Integer](https://www.tuhaoxin.cn/articles/2019/04/16/1555423447817.html)
+* [[每日LeetCode] 66. Plus One](https://www.tuhaoxin.cn/articles/2019/03/18/1552922152665.html)
+* [[每日LeetCode] 876. Middle of the Linked List](https://www.tuhaoxin.cn/articles/2019/04/19/1555604385968.html)
+* [[每日LeetCode] 914. X of a Kind in a Deck of Cards](https://www.tuhaoxin.cn/articles/2019/03/02/1551534206970.html)
+* [[每日LeetCode] 283. Move Zeroes](https://www.tuhaoxin.cn/articles/2019/03/30/1553958811285.html)
+* [[每日LeetCode] 653. Two Sum IV - Input is a BST](https://www.tuhaoxin.cn/articles/2019/05/18/1558174295792.html)
+* [[每日LeetCode] 572. Subtree of Another Tree](https://www.tuhaoxin.cn/articles/2019/05/22/1558537220291.html)
+* [LLDB调试命令使用指南](https://www.tuhaoxin.cn/articles/2019/04/25/1556196486657.html)
+* [[每日LeetCode]  993. Cousins in Binary Tree](https://www.tuhaoxin.cn/articles/2019/05/10/1557501635231.html)
+* [C/C++字符串与数字相互转换函数总结](https://www.tuhaoxin.cn/articles/2019/04/27/1556328950168.html)
+* [[每日LeetCode] 682. Baseball Game](https://www.tuhaoxin.cn/articles/2019/05/03/1556892868523.html)
+* [[每日LeetCode] 496. Next Greater Element I](https://www.tuhaoxin.cn/articles/2019/05/04/1556981392488.html)
+* [[每日LeetCode] 160. Intersection of Two Linked Lists](https://www.tuhaoxin.cn/articles/2019/04/29/1556547645353.html)
+* [[每日LeetCode] 581. Shortest Unsorted Continuous Subarray](https://www.tuhaoxin.cn/articles/2019/03/08/1552052209371.html)
+* [[每日LeetCode] 169. Majority Element](https://www.tuhaoxin.cn/articles/2019/03/28/1553780385333.html)
 * [[每日LeetCode] 965. Univalued Binary Tree](https://www.tuhaoxin.cn/articles/2019/05/11/1557576479663.html)
-* [[每日LeetCode] 26. Remove Duplicates from Sorted Array](https://www.tuhaoxin.cn/articles/2019/03/15/1552660768959.html)
-* [[每日LeetCode] 674. Longest Continuous Increasing Subsequence](https://www.tuhaoxin.cn/articles/2019/04/14/1555253528142.html)
-* [[每日LeetCode] 700. Search in a Binary Search Tree](https://www.tuhaoxin.cn/articles/2019/05/16/1558020949600.html)
-* [[每日LeetCode] 617. Merge Two Binary Trees](https://www.tuhaoxin.cn/articles/2019/05/20/1558333764104.html)
-* [[每日LeetCode] 27. Remove Element](https://www.tuhaoxin.cn/articles/2019/03/24/1553437309708.html)
-* [[每日LeetCode] 35. Search Insert Position](https://www.tuhaoxin.cn/articles/2019/03/17/1552834568669.html)
-* [我的开源](https://www.tuhaoxin.cn/my-github-repos)
-* [[每日LeetCode] 985. Sum of Even Numbers After Queries](https://www.tuhaoxin.cn/articles/2019/04/17/1555507861726.html)
-* [[每日LeetCode] 485. Max Consecutive Ones](https://www.tuhaoxin.cn/articles/2019/03/23/1553350273779.html)
-* [[每日LeetCode] 830. Positions of Large Groups](https://www.tuhaoxin.cn/articles/2019/04/09/1554817966683.html)
-* [[每日LeetCode] 21. Merge Two Sorted Lists](https://www.tuhaoxin.cn/articles/2019/04/24/1556078447285.html)
-* [[每日LeetCode] 783. Minimum Distance Between BST Nodes](https://www.tuhaoxin.cn/articles/2019/05/15/1557928495451.html)
-* [[每日LeetCode] 107. Binary Tree Level Order Traversal II](https://www.tuhaoxin.cn/articles/2019/05/28/1559012344084.html)
-* [[每日LeetCode] 669. Trim a Binary Search Tree](https://www.tuhaoxin.cn/articles/2019/05/18/1558108802898.html)
-* [[每日LeetCode] 102. Binary Tree Level Order Traversal](https://www.tuhaoxin.cn/articles/2019/05/28/1559011195220.html)
+* [[每日LeetCode] 232. Implement Queue using Stacks](https://www.tuhaoxin.cn/articles/2019/05/05/1557065245911.html)
+* [[每日LeetCode] 234. Palindrome Linked List](https://www.tuhaoxin.cn/articles/2019/04/30/1556632217252.html)
+* [[每日LeetCode] 707. Design Linked List](https://www.tuhaoxin.cn/articles/2019/04/28/1556457788530.html)
+* [[每日LeetCode] 532. K-diff Pairs in an Array](https://www.tuhaoxin.cn/articles/2019/03/09/1552138860239.html)
 
 ---
 
