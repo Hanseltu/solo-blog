@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [使用LLVM开发新语言Kaleidoscope教程](https://www.tuhaoxin.cn/articles/2019/10/01/1569927157476.html)
 * [记第一次顶会论文投稿经历](https://www.tuhaoxin.cn/articles/2019/08/26/1566832624038.html)
 * [[每日LeetCode] 13. Roman to Integer](https://www.tuhaoxin.cn/articles/2019/07/06/1562425477750.html)
 * [[每日LeetCode] 709. To Lower Case](https://www.tuhaoxin.cn/articles/2019/07/04/1562255326023.html)
@@ -29,7 +30,6 @@
 * [[每日LeetCode] 530. Minimum Absolute Difference in BST](https://www.tuhaoxin.cn/articles/2019/06/02/1559472752518.html)
 * [[每日LeetCode] 110. Balanced Binary Tree](https://www.tuhaoxin.cn/articles/2019/06/01/1559369768751.html)
 * [[每日LeetCode] 257. Binary Tree Paths](https://www.tuhaoxin.cn/articles/2019/05/31/1559315772434.html)
-* [[每日LeetCode] 671. Second Minimum Node In a Binary Tree](https://www.tuhaoxin.cn/articles/2019/05/29/1559142629809.html)
 
 ### 热门
 
@@ -50,32 +50,32 @@
 * [[每日LeetCode] 1021. Remove Outermost Parentheses](https://www.tuhaoxin.cn/articles/2019/05/01/1556718705261.html)
 * [ LLVM 概述一：编译器背景及LLVM初探](https://www.tuhaoxin.cn/articles/2019/04/01/1554090482411.html)
 * [[每日LeetCode] 643. Maximum Average Subarray I](https://www.tuhaoxin.cn/articles/2019/03/06/1551881676706.html)
-* [C++ vector 心得整理](https://www.tuhaoxin.cn/articles/2019/05/07/1557238845847.html)
 * [[每日LeetCode] 941. Valid Mountain Array](https://www.tuhaoxin.cn/articles/2019/03/01/1551446400690.html)
+* [C++ vector 心得整理](https://www.tuhaoxin.cn/articles/2019/05/07/1557238845847.html)
 * [[每日LeetCode] 888. Fair Candy Swap](https://www.tuhaoxin.cn/articles/2019/04/06/1554557729420.html)
 
 ### 热议
 
-* [[每日LeetCode] 66. Plus One](https://www.tuhaoxin.cn/articles/2019/03/18/1552922152665.html)
 * [[每日LeetCode] 206. Reverse Linked List](https://www.tuhaoxin.cn/articles/2019/04/24/1556073084404.html)
-* [程序动态分析](https://www.tuhaoxin.cn/articles/2019/05/08/1557317422630.html)
-* [[每日LeetCode] 872. Leaf-Similar Trees](https://www.tuhaoxin.cn/articles/2019/05/14/1557849250030.html)
-* [[每日LeetCode] 674. Longest Continuous Increasing Subsequence](https://www.tuhaoxin.cn/articles/2019/04/14/1555253528142.html)
-* [[每日LeetCode] 766. Toeplitz Matrix](https://www.tuhaoxin.cn/articles/2019/04/05/1554468870108.html)
-* [[每日LeetCode] 665. Non-decreasing Array](https://www.tuhaoxin.cn/articles/2019/03/05/1551792840379.html)
-* [[每日LeetCode] 896. Monotonic Array](https://www.tuhaoxin.cn/articles/2019/04/04/1554388025650.html)
-* [[每日LeetCode] 100. Same Tree](https://www.tuhaoxin.cn/articles/2019/05/21/1558453558348.html)
-* [C/C++字符串与数字相互转换函数总结](https://www.tuhaoxin.cn/articles/2019/04/27/1556328950168.html)
-* [[每日LeetCode] 746. Min Cost Climbing Stairs](https://www.tuhaoxin.cn/articles/2019/04/13/1555162366932.html)
-* [[每日LeetCode]  993. Cousins in Binary Tree](https://www.tuhaoxin.cn/articles/2019/05/10/1557501635231.html)
-* [[每日LeetCode] 107. Binary Tree Level Order Traversal II](https://www.tuhaoxin.cn/articles/2019/05/28/1559012344084.html)
-* [[每日LeetCode] 922. Sort Array By Parity II](https://www.tuhaoxin.cn/articles/2019/04/10/1554905491540.html)
-* [[每日LeetCode] 167. Two Sum II - Input array is sorted](https://www.tuhaoxin.cn/articles/2019/03/27/1553694963651.html)
+* [[每日LeetCode] 66. Plus One](https://www.tuhaoxin.cn/articles/2019/03/18/1552922152665.html)
+* [[每日LeetCode] 566. Reshape the Matrix](https://www.tuhaoxin.cn/articles/2019/04/01/1554130787502.html)
 * [[每日LeetCode] 965. Univalued Binary Tree](https://www.tuhaoxin.cn/articles/2019/05/11/1557576479663.html)
-* [[每日LeetCode] 840. Magic Squares In Grid](https://www.tuhaoxin.cn/articles/2019/03/04/1551709181420.html)
-* [[每日LeetCode] 122. Best Time to Buy and Sell Stock II](https://www.tuhaoxin.cn/articles/2019/03/26/1553610325093.html)
-* [[每日LeetCode] 669. Trim a Binary Search Tree](https://www.tuhaoxin.cn/articles/2019/05/18/1558108802898.html)
-* [[每日LeetCode] 82. Remove Duplicates from Sorted List II](https://www.tuhaoxin.cn/articles/2019/04/25/1556202011230.html)
+* [[每日LeetCode]  993. Cousins in Binary Tree](https://www.tuhaoxin.cn/articles/2019/05/10/1557501635231.html)
+* [[每日LeetCode] 897. Increasing Order Search Tree](https://www.tuhaoxin.cn/articles/2019/05/13/1557762320159.html)
+* [[每日LeetCode] 872. Leaf-Similar Trees](https://www.tuhaoxin.cn/articles/2019/05/14/1557849250030.html)
+* [[每日LeetCode] 914. X of a Kind in a Deck of Cards](https://www.tuhaoxin.cn/articles/2019/03/02/1551534206970.html)
+* [[每日LeetCode] 905. Sort Array By Parity](https://www.tuhaoxin.cn/articles/2019/03/03/1551619834877.html)
+* [[每日LeetCode] 572. Subtree of Another Tree](https://www.tuhaoxin.cn/articles/2019/05/22/1558537220291.html)
+* [[每日LeetCode] 605. Can Place Flowers](https://www.tuhaoxin.cn/articles/2019/03/07/1551961284898.html)
+* [[每日LeetCode] 100. Same Tree](https://www.tuhaoxin.cn/articles/2019/05/21/1558453558348.html)
+* [[每日LeetCode] 581. Shortest Unsorted Continuous Subarray](https://www.tuhaoxin.cn/articles/2019/03/08/1552052209371.html)
+* [[每日LeetCode] 189. Rotate Array](https://www.tuhaoxin.cn/articles/2019/03/10/1552232826078.html)
+* [[每日LeetCode] 217. Contains Duplicate](https://www.tuhaoxin.cn/articles/2019/03/12/1552399609211.html)
+* [[每日LeetCode] 414. Third Maximum Number](https://www.tuhaoxin.cn/articles/2019/03/11/1552316177665.html)
+* [[每日LeetCode] 219. Contains Duplicate II](https://www.tuhaoxin.cn/articles/2019/03/13/1552491749348.html)
+* [[每日LeetCode] 26. Remove Duplicates from Sorted Array](https://www.tuhaoxin.cn/articles/2019/03/15/1552660768959.html)
+* [[每日LeetCode] 27. Remove Element](https://www.tuhaoxin.cn/articles/2019/03/24/1553437309708.html)
+* [[每日LeetCode] 896. Monotonic Array](https://www.tuhaoxin.cn/articles/2019/04/04/1554388025650.html)
 
 ---
 
