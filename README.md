@@ -35,8 +35,8 @@
 
 * [JetBrains Account验证时出现JetBrains Account connection error: Connection refused (Connection refused)解决办法](https://www.tuhaoxin.cn/articles/2019/03/25/1553475230919.html)
 * [程序切片技术](https://www.tuhaoxin.cn/articles/2019/04/12/1555074101837.html)
-* [关于我](https://www.tuhaoxin.cn/articles/2019/02/24/1551014076788.html)
 * [世界，你好。](https://www.tuhaoxin.cn/hello-solo)
+* [关于我](https://www.tuhaoxin.cn/articles/2019/02/24/1551014076788.html)
 * [IT互联网技术博客网站推荐](https://www.tuhaoxin.cn/articles/2019/03/16/1552750931128.html)
 * [[每日LeetCode] 1022. Sum of Root To Leaf Binary Numbers](https://www.tuhaoxin.cn/articles/2019/05/09/1557413177969.html)
 * [[每日LeetCode] 938. Range Sum of BST](https://www.tuhaoxin.cn/articles/2019/05/12/1557671252445.html)
@@ -56,13 +56,13 @@
 
 ### 热议
 
-* [[每日LeetCode] 206. Reverse Linked List](https://www.tuhaoxin.cn/articles/2019/04/24/1556073084404.html)
 * [[每日LeetCode] 66. Plus One](https://www.tuhaoxin.cn/articles/2019/03/18/1552922152665.html)
+* [[每日LeetCode] 206. Reverse Linked List](https://www.tuhaoxin.cn/articles/2019/04/24/1556073084404.html)
 * [[每日LeetCode] 867. Transpose Matrix](https://www.tuhaoxin.cn/articles/2019/04/11/1554991311151.html)
-* [程序分析介绍](https://www.tuhaoxin.cn/articles/2019/03/16/1552742975668.html)
-* [[每日LeetCode] 783. Minimum Distance Between BST Nodes](https://www.tuhaoxin.cn/articles/2019/05/15/1557928495451.html)
 * [[每日LeetCode] 257. Binary Tree Paths](https://www.tuhaoxin.cn/articles/2019/05/31/1559315772434.html)
 * [[每日LeetCode] 110. Balanced Binary Tree](https://www.tuhaoxin.cn/articles/2019/06/01/1559369768751.html)
+* [程序分析介绍](https://www.tuhaoxin.cn/articles/2019/03/16/1552742975668.html)
+* [[每日LeetCode] 783. Minimum Distance Between BST Nodes](https://www.tuhaoxin.cn/articles/2019/05/15/1557928495451.html)
 * [[每日LeetCode] 350. Intersection of Two Arrays II](https://www.tuhaoxin.cn/articles/2019/06/19/1560959895117.html)
 * [[每日LeetCode] 674. Longest Continuous Increasing Subsequence](https://www.tuhaoxin.cn/articles/2019/04/14/1555253528142.html)
 * [[每日LeetCode] 189. Rotate Array](https://www.tuhaoxin.cn/articles/2019/03/10/1552232826078.html)
