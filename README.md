@@ -60,6 +60,7 @@
 * [[每日LeetCode] 206. Reverse Linked List](https://www.tuhaoxin.cn/articles/2019/04/24/1556073084404.html)
 * [[每日LeetCode] 766. Toeplitz Matrix](https://www.tuhaoxin.cn/articles/2019/04/05/1554468870108.html)
 * [[每日LeetCode] 485. Max Consecutive Ones](https://www.tuhaoxin.cn/articles/2019/03/23/1553350273779.html)
+* [[每日LeetCode] 746. Min Cost Climbing Stairs](https://www.tuhaoxin.cn/articles/2019/04/13/1555162366932.html)
 * [[每日LeetCode] 572. Subtree of Another Tree](https://www.tuhaoxin.cn/articles/2019/05/22/1558537220291.html)
 * [C/C++字符串与数字相互转换函数总结](https://www.tuhaoxin.cn/articles/2019/04/27/1556328950168.html)
 * [[每日LeetCode] 897. Increasing Order Search Tree](https://www.tuhaoxin.cn/articles/2019/05/13/1557762320159.html)
@@ -75,7 +76,6 @@
 * [[每日LeetCode] 189. Rotate Array](https://www.tuhaoxin.cn/articles/2019/03/10/1552232826078.html)
 * [[每日LeetCode] 160. Intersection of Two Linked Lists](https://www.tuhaoxin.cn/articles/2019/04/29/1556547645353.html)
 * [[每日LeetCode] 867. Transpose Matrix](https://www.tuhaoxin.cn/articles/2019/04/11/1554991311151.html)
-* [[每日LeetCode] 257. Binary Tree Paths](https://www.tuhaoxin.cn/articles/2019/05/31/1559315772434.html)
 
 ---
 
