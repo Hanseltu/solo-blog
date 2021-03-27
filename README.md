@@ -1,4 +1,4 @@
-<p align="center"><img alt="记录改变生活" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="记录改变生活" src="https://github.com/haoxintu/haoxintu.github.io/blob/master/images/in_usa.jpg"></p><h2 align="center">
 记录改变生活
 </h2>
 
